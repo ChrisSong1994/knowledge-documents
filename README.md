@@ -1,5 +1,6 @@
-# dumi app
+# Konwlodge Documents
 
+前端学习的各种文档，找起来不费劲
 ## Getting Started
 
 Install dependencies,
